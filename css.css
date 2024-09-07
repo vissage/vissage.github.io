@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(61, 32, 32);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    color: rgb(253, 107, 107);
+    text-decoration: wavy;
+    text-align: center;
+    padding-top: -6cm;
+}
+.principal{ 
+    float: right;
+    margin: 1cm;
+}
+.cerca{
+    margin: 20px;
+    text-size-adjust: 7px;
+    color: rgb(221, 61, 61);
+}
+.derecha{
+    float: right;
+}
+.subtitulo{
+    text-align: center;
+}
+.subejemplos{
+    margin-left: 1cm;
+}
+.especies{
+    color: brown;
+}
+h2{
+    color: brown;
+}
+.lista{
+    color: rgb(221, 61, 61);
+}
+p{
+    color: rgb(255, 129, 129);
+}
+.principal{
+    border: 5px rgb(252, 97, 49) dotted;
+}
+.explicacion{
+    text-align: center;
+}
+.siervo{
+    float: none;
+}
+.noko{
+    float: left;
+}
